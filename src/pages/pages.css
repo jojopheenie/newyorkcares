@@ -1,0 +1,10 @@
+.titles{
+    font-size: 18px;
+    background-color: #F5F5F5;
+    color: #3B3B3B;
+    font-family: "open_sans_semibold";
+    font-size: 18px;
+    margin-bottom: 6px;
+    padding: 12px 18px 8px;
+    text-transform: uppercase;
+}
