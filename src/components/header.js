@@ -1,10 +1,11 @@
 import React from "react";
+import logo from "../images/newyorkcares_logo.jpg"
 
 class Header extends React.Component{
 	render() {
 		return (
 			<React.Fragment>
-				Header
+				<img src={logo} alt="Logo" ></img>
 			</React.Fragment>
 		);
 	}
