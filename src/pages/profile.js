@@ -1,6 +1,7 @@
 import React from "react";
 import { fireAuth } from "../constants/fireapi";
-import {Form, Button} from 'react-bootstrap'
+//import {Form, Button} from 'react-bootstrap'
+import {Button} from 'react-bootstrap'
 
 const Profile = ({ displayName = "Unknown" }) => (
 	<React.Fragment>
