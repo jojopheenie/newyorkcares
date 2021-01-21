@@ -2,7 +2,7 @@ import firebase from 'firebase/app';
 import 'firebase/auth';
 
 const config = {
-	apiKey: "AIzaSyBKwFpVFkbS00z-zXvp8_j-XhU5myHYPEs",
+	apiKey: "AIzaSyD8O4ML7MUJlS6-ZHa9pBe3WG-Lv3zxkWU",
 	authDomain: "newyorkcares-c6f36.web.app",
 	projectId: "newyorkcares-c6f36"
 };
