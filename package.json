@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^12.2.0",
     "ac-react-simple-image-slider": "0.0.9",
     "bootstrap": "^4.5.3",
-    "firebase": "^8.0.1",
+    "firebase": "^8.2.3",
     "lodash": "^4.17.20",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",

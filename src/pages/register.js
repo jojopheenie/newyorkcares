@@ -10,6 +10,7 @@ class Register extends React.Component {
 	};
 
 	registerUser = history => () => {
+		console.log("we made it")
 		return fireAuth.createUserWithEmailAndPassword(this.state.email, this.state.password).then(() => {
 			return this.props.history.push("/login");
 		});
@@ -22,6 +23,7 @@ class Register extends React.Component {
 
 	render() {
 		const { email, password } = this.state;
+		console.log(this.state)
 		return (
 			<React.Fragment>
 				<Form>
